@@ -4,5 +4,5 @@ The first line of this file dictates the **assembly** version of the Main Execut
 
 This is not checked for:
 (a) AstolfoUIServer (UIServer);
-(b) AstolfoUIServerCLI, and;
+(b) AstolfoUIServerCLI (ServerCMD,UIServerCMD,ServerCLI,UIServerCLI,SCLI), and;
 (c) Non-AstolfoUI Related Products.
