@@ -1,1 +1,8 @@
 1.0.0.7
+
+The first line of this file dictates the **assembly** version of the Main Executable that AstolfoUI should check against to check if it is outdated.
+
+This is not checked for:
+(a) AstolfoUIServer (UIServer);
+(b) AstolfoUIServerCLI, and;
+(c) Non-AstolfoUI Related Products.
